@@ -1,0 +1,22 @@
+<lint-module
+    format="1"
+    dir="/home/curtis-lehman/Downloads/walking-free-android-studio-v4/WalkingFree-Android/capacitor-android"
+    name=":capacitor-android"
+    type="LIBRARY"
+    maven="WalkingFree-Android:capacitor-android:unspecified"
+    agpVersion="8.9.1"
+    buildFolder="build"
+    bootClassPath="/home/curtis-lehman/Android/Sdk/platforms/android-36/android.jar:/home/curtis-lehman/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      lintConfig="lint.xml"
+      baselineFile="lint-baseline.xml"
+      abortOnError="true"
+      absolutePaths="true"
+      warningsAsErrors="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

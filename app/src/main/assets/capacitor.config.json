@@ -1,0 +1,25 @@
+{
+	"appId": "com.walkingfree.app",
+	"appName": "Walking Free",
+	"webDir": "dist/public",
+	"server": {
+		"androidScheme": "https"
+	},
+	"ios": {
+		"contentInset": "always",
+		"backgroundColor": "#f5efe6"
+	},
+	"android": {
+		"backgroundColor": "#f5efe6"
+	},
+	"plugins": {
+		"GoogleAuth": {
+			"scopes": [
+				"profile",
+				"email"
+			],
+			"serverClientId": "",
+			"forceCodeForRefreshToken": true
+		}
+	}
+}
