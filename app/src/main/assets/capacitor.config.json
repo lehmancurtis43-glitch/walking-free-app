@@ -13,13 +13,8 @@
 		"backgroundColor": "#f5efe6"
 	},
 	"plugins": {
-		"GoogleAuth": {
-			"scopes": [
-				"profile",
-				"email"
-			],
-			"serverClientId": "",
-			"forceCodeForRefreshToken": true
+		"CapacitorUpdater": {
+			"autoUpdate": false
 		}
 	}
 }

@@ -4,7 +4,7 @@
             "outputFile": "com.getcapacitor.android.capacitor-android-release-27:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/dc2b5aadbce012effd0ed16e18369d38/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/e4f03505bf6956de4d1441275bdda8d8/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -36,7 +36,7 @@
             "outputFile": "com.getcapacitor.android.capacitor-android-mergeReleaseResources-25:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/dc2b5aadbce012effd0ed16e18369d38/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -53,7 +53,7 @@
                     }
                 },
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/e4f03505bf6956de4d1441275bdda8d8/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

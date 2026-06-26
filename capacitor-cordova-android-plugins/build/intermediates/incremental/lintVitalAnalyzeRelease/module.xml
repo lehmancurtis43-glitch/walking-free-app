@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/home/curtis-lehman/Downloads/walking-free-android-studio-v4/WalkingFree-Android/capacitor-cordova-android-plugins"
+    dir="/home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-cordova-android-plugins"
     name=":capacitor-cordova-android-plugins"
     type="LIBRARY"
     maven="WalkingFree-Android:capacitor-cordova-android-plugins:unspecified"

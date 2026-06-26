@@ -4,7 +4,7 @@
             "outputFile": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-mergeReleaseResources-22:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/dc2b5aadbce012effd0ed16e18369d38/transformed/appcompat-1.7.1/res/values-v23/values-v23.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -20,7 +20,7 @@
             "outputFile": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/dc2b5aadbce012effd0ed16e18369d38/transformed/appcompat-1.7.1/res/values-v23/values-v23.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

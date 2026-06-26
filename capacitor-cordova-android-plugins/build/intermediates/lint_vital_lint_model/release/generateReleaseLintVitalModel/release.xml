@@ -26,6 +26,6 @@
       applicationId="capacitor.cordova.android.plugins"
       generatedSourceFolders="build/generated/ap_generated_sources/release/out"
       generatedResourceFolders="build/generated/res/resValues/release"
-      desugaredMethodsFiles="/home/curtis-lehman/.gradle/caches/8.12/transforms/dbec57e849a3ed390879f6ecd8f85a3a/transformed/D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/29d998b49b73b855ddfb6142b15da834/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

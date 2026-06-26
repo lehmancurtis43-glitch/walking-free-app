@@ -4,7 +4,7 @@
             "outputFile": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/e4f03505bf6956de4d1441275bdda8d8/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",
@@ -20,7 +20,7 @@
             "outputFile": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-mergeReleaseResources-22:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.12/transforms/e4f03505bf6956de4d1441275bdda8d8/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",

@@ -1,3 +1,6 @@
 // LOCAL PATHS — no node_modules required
 include ':capacitor-android'
 project(':capacitor-android').projectDir = new File('./capacitor-android')
+
+include ':capgo-capacitor-updater'
+project(':capgo-capacitor-updater').projectDir = new File('./capgo-capacitor-updater')

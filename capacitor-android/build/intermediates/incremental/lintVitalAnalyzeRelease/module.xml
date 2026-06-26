@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/home/curtis-lehman/Downloads/walking-free-android-studio-v4/WalkingFree-Android/capacitor-android"
+    dir="/home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android"
     name=":capacitor-android"
     type="LIBRARY"
     maven="WalkingFree-Android:capacitor-android:unspecified"
