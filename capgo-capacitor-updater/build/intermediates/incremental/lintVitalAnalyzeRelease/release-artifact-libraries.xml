@@ -1,9 +1,9 @@
 <libraries>
   <library
       name="androidx.work:work-runtime:2.10.5@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e259f802bbb03c9b21f4ab2443244fc8/transformed/work-runtime-2.10.5/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/7293e70db199dbda343293aae1eece68/transformed/work-runtime-2.10.5/jars/classes.jar"
       resolved="androidx.work:work-runtime:2.10.5"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e259f802bbb03c9b21f4ab2443244fc8/transformed/work-runtime-2.10.5"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/7293e70db199dbda343293aae1eece68/transformed/work-runtime-2.10.5"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -14,9 +14,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.appcompat:appcompat-resources:1.7.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/6fea042b21d48038e6c838a1b3eda086/transformed/appcompat-resources-1.7.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a42945b76c2cc34081cef389479e0f53/transformed/appcompat-resources-1.7.1/jars/classes.jar"
       resolved="androidx.appcompat:appcompat-resources:1.7.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/6fea042b21d48038e6c838a1b3eda086/transformed/appcompat-resources-1.7.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a42945b76c2cc34081cef389479e0f53/transformed/appcompat-resources-1.7.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -27,9 +27,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.appcompat:appcompat:1.7.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/jars/classes.jar"
       resolved="androidx.appcompat:appcompat:1.7.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -40,9 +40,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="com.google.android.play:app-update-ktx:2.1.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/73e270f4390512f0a89ab0cfa22c51a9/transformed/app-update-ktx-2.1.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/17860fcc90f6273907eee4156a5ed803/transformed/app-update-ktx-2.1.0/jars/classes.jar"
       resolved="com.google.android.play:app-update-ktx:2.1.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/73e270f4390512f0a89ab0cfa22c51a9/transformed/app-update-ktx-2.1.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/17860fcc90f6273907eee4156a5ed803/transformed/app-update-ktx-2.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -53,9 +53,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="com.google.android.play:app-update:2.1.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ce814309fe439600783aff3e31a11d8a/transformed/app-update-2.1.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a5fb0683f49b61305e6c7af26b38d3d7/transformed/app-update-2.1.0/jars/classes.jar"
       resolved="com.google.android.play:app-update:2.1.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ce814309fe439600783aff3e31a11d8a/transformed/app-update-2.1.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a5fb0683f49b61305e6c7af26b38d3d7/transformed/app-update-2.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -66,9 +66,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="com.google.android.gms:play-services-tasks:18.4.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e3a31d86879cb324b90730fee2863672/transformed/play-services-tasks-18.4.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ab874e648077413517355f2655deb0d4/transformed/play-services-tasks-18.4.1/jars/classes.jar"
       resolved="com.google.android.gms:play-services-tasks:18.4.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e3a31d86879cb324b90730fee2863672/transformed/play-services-tasks-18.4.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ab874e648077413517355f2655deb0d4/transformed/play-services-tasks-18.4.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -79,9 +79,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="com.google.android.gms:play-services-basement:18.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1617d5768a93786b1de2dee421c5cbdd/transformed/play-services-basement-18.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/16ea4faa3ca236a9c99571ef8d8676bc/transformed/play-services-basement-18.10.0/jars/classes.jar"
       resolved="com.google.android.gms:play-services-basement:18.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1617d5768a93786b1de2dee421c5cbdd/transformed/play-services-basement-18.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/16ea4faa3ca236a9c99571ef8d8676bc/transformed/play-services-basement-18.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -92,9 +92,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.fragment:fragment:1.8.9@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b0c4f0a8a297069bc2e2ab7440da1099/transformed/fragment-1.8.9/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d4ea80f16b09c0a952119222951cccc1/transformed/fragment-1.8.9/jars/classes.jar"
       resolved="androidx.fragment:fragment:1.8.9"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b0c4f0a8a297069bc2e2ab7440da1099/transformed/fragment-1.8.9"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d4ea80f16b09c0a952119222951cccc1/transformed/fragment-1.8.9"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -105,9 +105,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.drawerlayout:drawerlayout:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/98ac29162641be50d7cf94e416ed506c/transformed/drawerlayout-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/6aabba2ec283d5215183b711d761ac2c/transformed/drawerlayout-1.0.0/jars/classes.jar"
       resolved="androidx.drawerlayout:drawerlayout:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/98ac29162641be50d7cf94e416ed506c/transformed/drawerlayout-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/6aabba2ec283d5215183b711d761ac2c/transformed/drawerlayout-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -118,9 +118,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.vectordrawable:vectordrawable-animated:1.1.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/8e862faf6f7491c548ea4d8ae000ea92/transformed/vectordrawable-animated-1.1.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/4d88a5f6be3cd2001c0fb1cd0483108e/transformed/vectordrawable-animated-1.1.0/jars/classes.jar"
       resolved="androidx.vectordrawable:vectordrawable-animated:1.1.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/8e862faf6f7491c548ea4d8ae000ea92/transformed/vectordrawable-animated-1.1.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/4d88a5f6be3cd2001c0fb1cd0483108e/transformed/vectordrawable-animated-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -131,9 +131,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.vectordrawable:vectordrawable:1.1.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b1b0aeda2051cfccbcf6e255c26f7956/transformed/vectordrawable-1.1.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/10ba73579297775cd8a5f5b5dca5fa8e/transformed/vectordrawable-1.1.0/jars/classes.jar"
       resolved="androidx.vectordrawable:vectordrawable:1.1.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b1b0aeda2051cfccbcf6e255c26f7956/transformed/vectordrawable-1.1.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/10ba73579297775cd8a5f5b5dca5fa8e/transformed/vectordrawable-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -144,9 +144,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.activity:activity:1.11.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a03497f903cf102c43792fb9dc7ce0ef/transformed/activity-1.11.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e4f0ad045efb2f2a80bc57d596369380/transformed/activity-1.11.0/jars/classes.jar"
       resolved="androidx.activity:activity:1.11.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a03497f903cf102c43792fb9dc7ce0ef/transformed/activity-1.11.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e4f0ad045efb2f2a80bc57d596369380/transformed/activity-1.11.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -157,9 +157,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.loader:loader:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/cbed75c13566524e341ae2129e0d67bd/transformed/loader-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9a5c7929570e74d03b54a1b39c77563f/transformed/loader-1.0.0/jars/classes.jar"
       resolved="androidx.loader:loader:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/cbed75c13566524e341ae2129e0d67bd/transformed/loader-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9a5c7929570e74d03b54a1b39c77563f/transformed/loader-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -170,9 +170,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-viewmodel:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/53e0821d2ac0d0e57a996a6d3442766d/transformed/lifecycle-viewmodel-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/5534d819ec207a960aade5a7ee15b00d/transformed/lifecycle-viewmodel-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/53e0821d2ac0d0e57a996a6d3442766d/transformed/lifecycle-viewmodel-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/5534d819ec207a960aade5a7ee15b00d/transformed/lifecycle-viewmodel-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -183,9 +183,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-viewmodel-android:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/76296a1d2d4322f9ada0bd1a8ba3767d/transformed/lifecycle-viewmodel/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1952dede54e2e85820b90ac7a88fecef/transformed/lifecycle-viewmodel/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel-android:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/76296a1d2d4322f9ada0bd1a8ba3767d/transformed/lifecycle-viewmodel"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1952dede54e2e85820b90ac7a88fecef/transformed/lifecycle-viewmodel"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -200,9 +200,9 @@
       resolved="androidx.lifecycle:lifecycle-common-jvm:2.10.0"/>
   <library
       name="androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/0af129c28cd7312168aad7e5e7f50c2e/transformed/lifecycle-viewmodel-savedstate/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/62da456876b7a9b204ee2464e61484e2/transformed/lifecycle-viewmodel-savedstate/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/0af129c28cd7312168aad7e5e7f50c2e/transformed/lifecycle-viewmodel-savedstate"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/62da456876b7a9b204ee2464e61484e2/transformed/lifecycle-viewmodel-savedstate"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -213,9 +213,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.core:core-ktx:1.17.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9abcc6c1b1bfc10309fb08f89e9bac42/transformed/core-ktx-1.17.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/8df0ed4a249bc202862b08b2a893df13/transformed/core-ktx-1.17.0/jars/classes.jar"
       resolved="androidx.core:core-ktx:1.17.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9abcc6c1b1bfc10309fb08f89e9bac42/transformed/core-ktx-1.17.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/8df0ed4a249bc202862b08b2a893df13/transformed/core-ktx-1.17.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -226,9 +226,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.viewpager:viewpager:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f148667bac11e686fdcaea824c242520/transformed/viewpager-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f47f36b964bf6bf5b5bcc912e136e999/transformed/viewpager-1.0.0/jars/classes.jar"
       resolved="androidx.viewpager:viewpager:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f148667bac11e686fdcaea824c242520/transformed/viewpager-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f47f36b964bf6bf5b5bcc912e136e999/transformed/viewpager-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -239,9 +239,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.customview:customview:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/c054cc0e526705782e828eee2f5dddc2/transformed/customview-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e3d21c101fe10814160b95609da73c91/transformed/customview-1.0.0/jars/classes.jar"
       resolved="androidx.customview:customview:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/c054cc0e526705782e828eee2f5dddc2/transformed/customview-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e3d21c101fe10814160b95609da73c91/transformed/customview-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -252,9 +252,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.core:core:1.17.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2a9f2b586705bc68c2547bd968b978c1/transformed/core-1.17.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f3af7bcdf38bdf48a2276d8dec6f5b6c/transformed/core-1.17.0/jars/classes.jar"
       resolved="androidx.core:core:1.17.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2a9f2b586705bc68c2547bd968b978c1/transformed/core-1.17.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f3af7bcdf38bdf48a2276d8dec6f5b6c/transformed/core-1.17.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -265,9 +265,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-runtime-android:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3791f42fa24e3a8bd279ea6b72a64838/transformed/lifecycle-runtime/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3539895785ee05ac5d5ee0b1ff1c3c58/transformed/lifecycle-runtime/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-runtime-android:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3791f42fa24e3a8bd279ea6b72a64838/transformed/lifecycle-runtime"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3539895785ee05ac5d5ee0b1ff1c3c58/transformed/lifecycle-runtime"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -278,9 +278,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1a2abc9b8e2df069d454d38dad19c80c/transformed/lifecycle-livedata-core-ktx-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2916207151666d12ec9e6b3b797b2c0a/transformed/lifecycle-livedata-core-ktx-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1a2abc9b8e2df069d454d38dad19c80c/transformed/lifecycle-livedata-core-ktx-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2916207151666d12ec9e6b3b797b2c0a/transformed/lifecycle-livedata-core-ktx-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -291,9 +291,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-livedata-core:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e296b9175503723e374d56ff3a324ec0/transformed/lifecycle-livedata-core-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/bb2b9ed07258adc3bd63dcd99ee21f77/transformed/lifecycle-livedata-core-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata-core:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e296b9175503723e374d56ff3a324ec0/transformed/lifecycle-livedata-core-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/bb2b9ed07258adc3bd63dcd99ee21f77/transformed/lifecycle-livedata-core-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -304,9 +304,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-livedata:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ad6e4421d193c0bb22f1da36732146ca/transformed/lifecycle-livedata-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/06948d08114f737100886f233b1cb7c1/transformed/lifecycle-livedata-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ad6e4421d193c0bb22f1da36732146ca/transformed/lifecycle-livedata-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/06948d08114f737100886f233b1cb7c1/transformed/lifecycle-livedata-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -317,9 +317,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-process:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e8616091cb484163454b1f0204160006/transformed/lifecycle-process-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ebba9c48fa1211c3fd9767f4d7e0966a/transformed/lifecycle-process-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-process:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e8616091cb484163454b1f0204160006/transformed/lifecycle-process-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/ebba9c48fa1211c3fd9767f4d7e0966a/transformed/lifecycle-process-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -334,9 +334,9 @@
       resolved="com.google.guava:guava:33.6.0-android"/>
   <library
       name=":@@:capacitor-android::release"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/df594feab859c6bee26c3ef2d2146208/transformed/out/jars/classes.jar:/home/curtis-lehman/.gradle/caches/8.14.3/transforms/df594feab859c6bee26c3ef2d2146208/transformed/out/jars/libs/R.jar"
-      resolved="WalkingFree-Android:capacitor-android:unspecified"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/df594feab859c6bee26c3ef2d2146208/transformed/out"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/65fca68af14ad9bc70cad94ad1ba675f/transformed/out/jars/classes.jar:/home/curtis-lehman/.gradle/caches/8.14.3/transforms/65fca68af14ad9bc70cad94ad1ba675f/transformed/out/jars/libs/R.jar"
+      resolved="walking-free-app:capacitor-android:unspecified"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/65fca68af14ad9bc70cad94ad1ba675f/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -359,9 +359,9 @@
       resolved="com.squareup.okhttp3:okhttp:4.12.0"/>
   <library
       name="androidx.annotation:annotation-experimental:1.4.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/72967a281da31af3ea97843b072bfb83/transformed/annotation-experimental-1.4.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/28d7e356c2018f3571331e60a7554d9d/transformed/annotation-experimental-1.4.1/jars/classes.jar"
       resolved="androidx.annotation:annotation-experimental:1.4.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/72967a281da31af3ea97843b072bfb83/transformed/annotation-experimental-1.4.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/28d7e356c2018f3571331e60a7554d9d/transformed/annotation-experimental-1.4.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -372,9 +372,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.savedstate:savedstate-android:1.4.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/18a98be72c8a8abb69255e42afd18bf8/transformed/savedstate/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3b5f3899249ae390edacea82ccc80e84/transformed/savedstate/jars/classes.jar"
       resolved="androidx.savedstate:savedstate-android:1.4.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/18a98be72c8a8abb69255e42afd18bf8/transformed/savedstate"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3b5f3899249ae390edacea82ccc80e84/transformed/savedstate"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -405,9 +405,9 @@
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.10"/>
   <library
       name="androidx.core:core-viewtree:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/329d200f68ef4b18eb141a5219d2f607/transformed/core-viewtree-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/10828e11e91a075176136e92e009431d/transformed/core-viewtree-1.0.0/jars/classes.jar"
       resolved="androidx.core:core-viewtree:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/329d200f68ef4b18eb141a5219d2f607/transformed/core-viewtree-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/10828e11e91a075176136e92e009431d/transformed/core-viewtree-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -418,9 +418,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.cursoradapter:cursoradapter:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b47435ebe2c29ea537c8e07bdccc9690/transformed/cursoradapter-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/79b1dd756be69c326a74b27519e18ac1/transformed/cursoradapter-1.0.0/jars/classes.jar"
       resolved="androidx.cursoradapter:cursoradapter:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b47435ebe2c29ea537c8e07bdccc9690/transformed/cursoradapter-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/79b1dd756be69c326a74b27519e18ac1/transformed/cursoradapter-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -431,9 +431,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/666547c90d2e701c7f2cc706bca4f565/transformed/versionedparcelable-1.1.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/37c59a2ced31f3296fe575f7af034ac9/transformed/versionedparcelable-1.1.1/jars/classes.jar"
       resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/666547c90d2e701c7f2cc706bca4f565/transformed/versionedparcelable-1.1.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/37c59a2ced31f3296fe575f7af034ac9/transformed/versionedparcelable-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -444,9 +444,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.arch.core:core-runtime:2.2.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/94afa0c5dc341386a7109169fcc65c29/transformed/core-runtime-2.2.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a2fd1419bbe899ebce28cc65e74fd31d/transformed/core-runtime-2.2.0/jars/classes.jar"
       resolved="androidx.arch.core:core-runtime:2.2.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/94afa0c5dc341386a7109169fcc65c29/transformed/core-runtime-2.2.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a2fd1419bbe899ebce28cc65e74fd31d/transformed/core-runtime-2.2.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -465,9 +465,9 @@
       resolved="androidx.collection:collection-jvm:1.4.2"/>
   <library
       name="androidx.interpolator:interpolator:1.0.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a37f7f0e0d205aff5f137412f705b532/transformed/interpolator-1.0.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/5b5a5a43f398b9c86dca99b40d549d22/transformed/interpolator-1.0.0/jars/classes.jar"
       resolved="androidx.interpolator:interpolator:1.0.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a37f7f0e0d205aff5f137412f705b532/transformed/interpolator-1.0.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/5b5a5a43f398b9c86dca99b40d549d22/transformed/interpolator-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -502,9 +502,9 @@
       resolved="org.jspecify:jspecify:1.0.0"/>
   <library
       name="androidx.startup:startup-runtime:1.1.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d89871231533b8e0a7aa3be7ce7cba54/transformed/startup-runtime-1.1.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9d55437efbbced5ba20545e369a24d2f/transformed/startup-runtime-1.1.1/jars/classes.jar"
       resolved="androidx.startup:startup-runtime:1.1.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d89871231533b8e0a7aa3be7ce7cba54/transformed/startup-runtime-1.1.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9d55437efbbced5ba20545e369a24d2f/transformed/startup-runtime-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -527,9 +527,9 @@
       resolved="com.google.j2objc:j2objc-annotations:3.1"/>
   <library
       name="com.google.android.play:core-common:2.0.3@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/19abc37cd20f9a53ebb8b1a38a244927/transformed/core-common-2.0.3/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e1780a84648a81ee436d258f92af1329/transformed/core-common-2.0.3/jars/classes.jar"
       resolved="com.google.android.play:core-common:2.0.3"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/19abc37cd20f9a53ebb8b1a38a244927/transformed/core-common-2.0.3"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e1780a84648a81ee436d258f92af1329/transformed/core-common-2.0.3"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -540,9 +540,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="org.apache.cordova:framework:14.0.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/cc4becc3a6513530f2f18490c226b857/transformed/framework-14.0.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/79e1cae78d7d589be1371f20a9dffdf3/transformed/framework-14.0.1/jars/classes.jar"
       resolved="org.apache.cordova:framework:14.0.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/cc4becc3a6513530f2f18490c226b857/transformed/framework-14.0.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/79e1cae78d7d589be1371f20a9dffdf3/transformed/framework-14.0.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -553,9 +553,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.coordinatorlayout:coordinatorlayout:1.3.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3eb550f792558326062382cdb186f61d/transformed/coordinatorlayout-1.3.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3095778785b6c1f3b0b9988be5bfe461/transformed/coordinatorlayout-1.3.0/jars/classes.jar"
       resolved="androidx.coordinatorlayout:coordinatorlayout:1.3.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3eb550f792558326062382cdb186f61d/transformed/coordinatorlayout-1.3.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/3095778785b6c1f3b0b9988be5bfe461/transformed/coordinatorlayout-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -566,9 +566,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.webkit:webkit:1.14.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1b66cc350d0bb05dd37333601b068a76/transformed/webkit-1.14.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/109fa5a8cecd0db9120bfca9933192ae/transformed/webkit-1.14.0/jars/classes.jar"
       resolved="androidx.webkit:webkit:1.14.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1b66cc350d0bb05dd37333601b068a76/transformed/webkit-1.14.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/109fa5a8cecd0db9120bfca9933192ae/transformed/webkit-1.14.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -579,9 +579,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.emoji2:emoji2-views-helper:1.3.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/916df4c18ca8994f193191b573c97fe6/transformed/emoji2-views-helper-1.3.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b535576b0345a8e606432887f65d55c9/transformed/emoji2-views-helper-1.3.0/jars/classes.jar"
       resolved="androidx.emoji2:emoji2-views-helper:1.3.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/916df4c18ca8994f193191b573c97fe6/transformed/emoji2-views-helper-1.3.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b535576b0345a8e606432887f65d55c9/transformed/emoji2-views-helper-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -592,9 +592,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.emoji2:emoji2:1.3.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/86f36ce9a0c251e27a3fe7b9fabbb09c/transformed/emoji2-1.3.0/jars/classes.jar:/home/curtis-lehman/.gradle/caches/8.14.3/transforms/86f36ce9a0c251e27a3fe7b9fabbb09c/transformed/emoji2-1.3.0/jars/libs/repackaged.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/52266193969656cc6501f06389270d50/transformed/emoji2-1.3.0/jars/classes.jar:/home/curtis-lehman/.gradle/caches/8.14.3/transforms/52266193969656cc6501f06389270d50/transformed/emoji2-1.3.0/jars/libs/repackaged.jar"
       resolved="androidx.emoji2:emoji2:1.3.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/86f36ce9a0c251e27a3fe7b9fabbb09c/transformed/emoji2-1.3.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/52266193969656cc6501f06389270d50/transformed/emoji2-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -605,9 +605,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-service:2.10.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e58e2f0a4c76373d359224ee4b81d556/transformed/lifecycle-service-2.10.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a5665dc893d0229b34d46f81ed306e97/transformed/lifecycle-service-2.10.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-service:2.10.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e58e2f0a4c76373d359224ee4b81d556/transformed/lifecycle-service-2.10.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a5665dc893d0229b34d46f81ed306e97/transformed/lifecycle-service-2.10.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -622,9 +622,9 @@
       resolved="androidx.room:room-common:2.6.1"/>
   <library
       name="androidx.room:room-ktx:2.6.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9a702302b4cb61591d6c27a1730aa4ac/transformed/room-ktx-2.6.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/37ae53fdd976b8f5c16103495a72979a/transformed/room-ktx-2.6.1/jars/classes.jar"
       resolved="androidx.room:room-ktx:2.6.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9a702302b4cb61591d6c27a1730aa4ac/transformed/room-ktx-2.6.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/37ae53fdd976b8f5c16103495a72979a/transformed/room-ktx-2.6.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -635,9 +635,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.room:room-runtime:2.6.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e97a07cac9cbca930d95f05e5ef497cb/transformed/room-runtime-2.6.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2035f2b8f2e16f060dc192ca6529a4be/transformed/room-runtime-2.6.1/jars/classes.jar"
       resolved="androidx.room:room-runtime:2.6.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e97a07cac9cbca930d95f05e5ef497cb/transformed/room-runtime-2.6.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2035f2b8f2e16f060dc192ca6529a4be/transformed/room-runtime-2.6.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -652,9 +652,9 @@
       resolved="androidx.concurrent:concurrent-futures-ktx:1.1.0"/>
   <library
       name="androidx.profileinstaller:profileinstaller:1.4.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d82c016092be8ce4fcd0afd504756782/transformed/profileinstaller-1.4.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1566aa72dcdc4344aa1f6578149102cb/transformed/profileinstaller-1.4.0/jars/classes.jar"
       resolved="androidx.profileinstaller:profileinstaller:1.4.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d82c016092be8ce4fcd0afd504756782/transformed/profileinstaller-1.4.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1566aa72dcdc4344aa1f6578149102cb/transformed/profileinstaller-1.4.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -665,9 +665,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.tracing:tracing:1.2.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/15781af38740379edacf8688b1a9ca95/transformed/tracing-1.2.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d581f627abdf8e0093c42d3ad08be3e8/transformed/tracing-1.2.0/jars/classes.jar"
       resolved="androidx.tracing:tracing:1.2.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/15781af38740379edacf8688b1a9ca95/transformed/tracing-1.2.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/d581f627abdf8e0093c42d3ad08be3e8/transformed/tracing-1.2.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -678,9 +678,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.tracing:tracing-ktx:1.2.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9556f0f899fbeb33d416a56da2e6ef88/transformed/tracing-ktx-1.2.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/155115ef9add601e7a776a0d9319269e/transformed/tracing-ktx-1.2.0/jars/classes.jar"
       resolved="androidx.tracing:tracing-ktx:1.2.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/9556f0f899fbeb33d416a56da2e6ef88/transformed/tracing-ktx-1.2.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/155115ef9add601e7a776a0d9319269e/transformed/tracing-ktx-1.2.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -699,9 +699,9 @@
       resolved="androidx.resourceinspection:resourceinspection-annotation:1.0.1"/>
   <library
       name="androidx.core:core-splashscreen:1.0.1@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b10e7945b503148642eb43019e88e16f/transformed/core-splashscreen-1.0.1/jars/classes.jar"
       resolved="androidx.core:core-splashscreen:1.0.1"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/b10e7945b503148642eb43019e88e16f/transformed/core-splashscreen-1.0.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -712,9 +712,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.sqlite:sqlite-framework:2.4.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a66bac2eada79a28c4d9c78317fcc0ff/transformed/sqlite-framework-2.4.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e76ab4a6b45278885193498dae2fd806/transformed/sqlite-framework-2.4.0/jars/classes.jar"
       resolved="androidx.sqlite:sqlite-framework:2.4.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a66bac2eada79a28c4d9c78317fcc0ff/transformed/sqlite-framework-2.4.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/e76ab4a6b45278885193498dae2fd806/transformed/sqlite-framework-2.4.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -725,9 +725,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.sqlite:sqlite:2.4.0@aar"
-      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a3adfbf625d7b16cafee8968278f65db/transformed/sqlite-2.4.0/jars/classes.jar"
+      jars="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/353bc87d5e2b1e9b5593d949116c07c3/transformed/sqlite-2.4.0/jars/classes.jar"
       resolved="androidx.sqlite:sqlite:2.4.0"
-      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a3adfbf625d7b16cafee8968278f65db/transformed/sqlite-2.4.0"
+      folder="/home/curtis-lehman/.gradle/caches/8.14.3/transforms/353bc87d5e2b1e9b5593d949116c07c3/transformed/sqlite-2.4.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

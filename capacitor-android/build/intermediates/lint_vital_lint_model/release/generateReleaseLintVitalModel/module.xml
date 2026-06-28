@@ -1,9 +1,9 @@
 <lint-module
     format="1"
-    dir="/home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android"
+    dir="/home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android"
     name=":capacitor-android"
     type="LIBRARY"
-    maven="WalkingFree-Android:capacitor-android:unspecified"
+    maven="walking-free-app:capacitor-android:unspecified"
     agpVersion="8.9.1"
     buildFolder="build"
     bootClassPath="/home/curtis-lehman/Android/Sdk/platforms/android-36/android.jar:/home/curtis-lehman/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"

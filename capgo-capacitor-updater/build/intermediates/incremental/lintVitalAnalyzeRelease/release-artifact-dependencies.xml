@@ -84,7 +84,7 @@
         simpleName="com.google.guava:guava"/>
     <dependency
         name=":@@:capacitor-android::release"
-        simpleName="WalkingFree-Android:capacitor-android"/>
+        simpleName="walking-free-app:capacitor-android"/>
     <dependency
         name="io.github.g00fy2:versioncompare:1.5.0@jar"
         simpleName="io.github.g00fy2:versioncompare"/>
@@ -177,7 +177,7 @@
         simpleName="androidx.work:work-runtime"/>
     <dependency
         name=":@@:capacitor-android::release"
-        simpleName="WalkingFree-Android:capacitor-android"/>
+        simpleName="walking-free-app:capacitor-android"/>
     <dependency
         name="org.apache.cordova:framework:14.0.1@aar"
         simpleName="org.apache.cordova:framework"/>

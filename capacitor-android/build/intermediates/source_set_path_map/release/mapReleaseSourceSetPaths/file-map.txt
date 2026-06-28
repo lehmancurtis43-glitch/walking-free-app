@@ -22,10 +22,10 @@ com.getcapacitor.android.capacitor-android-profileinstaller-1.4.0-20 /home/curti
 com.getcapacitor.android.capacitor-android-startup-runtime-1.1.1-21 /home/curtis-lehman/.gradle/caches/8.14.3/transforms/d89871231533b8e0a7aa3be7ce7cba54/transformed/startup-runtime-1.1.1/res
 com.getcapacitor.android.capacitor-android-core-splashscreen-1.0.1-22 /home/curtis-lehman/.gradle/caches/8.14.3/transforms/f0bd3e7af4be458d557e958fa6539e3b/transformed/core-splashscreen-1.0.1/res
 com.getcapacitor.android.capacitor-android-lifecycle-livedata-core-2.6.2-23 /home/curtis-lehman/.gradle/caches/8.14.3/transforms/f276ba689c5520bd2dca1e8ce985e918/transformed/lifecycle-livedata-core-2.6.2/res
-com.getcapacitor.android.capacitor-android-pngs-24 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/build/generated/res/pngs/release
-com.getcapacitor.android.capacitor-android-resValues-25 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/build/generated/res/resValues/release
-com.getcapacitor.android.capacitor-android-mergeReleaseResources-26 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.getcapacitor.android.capacitor-android-mergeReleaseResources-27 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.getcapacitor.android.capacitor-android-release-28 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/build/intermediates/merged_res/release/mergeReleaseResources
-com.getcapacitor.android.capacitor-android-main-29 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/src/main/res
-com.getcapacitor.android.capacitor-android-release-30 /home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-android/src/release/res
+com.getcapacitor.android.capacitor-android-pngs-24 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/build/generated/res/pngs/release
+com.getcapacitor.android.capacitor-android-resValues-25 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/build/generated/res/resValues/release
+com.getcapacitor.android.capacitor-android-mergeReleaseResources-26 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.getcapacitor.android.capacitor-android-mergeReleaseResources-27 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.getcapacitor.android.capacitor-android-release-28 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/build/intermediates/merged_res/release/mergeReleaseResources
+com.getcapacitor.android.capacitor-android-main-29 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/src/main/res
+com.getcapacitor.android.capacitor-android-release-30 /home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-android/src/release/res

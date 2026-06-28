@@ -1,9 +1,9 @@
 <lint-module
     format="1"
-    dir="/home/curtis-lehman/Downloads/walking-free/WalkingFree-Android/capacitor-cordova-android-plugins"
+    dir="/home/curtis-lehman/Downloads/walking-free/walking-free-app/capacitor-cordova-android-plugins"
     name=":capacitor-cordova-android-plugins"
     type="LIBRARY"
-    maven="WalkingFree-Android:capacitor-cordova-android-plugins:unspecified"
+    maven="walking-free-app:capacitor-cordova-android-plugins:unspecified"
     agpVersion="8.9.1"
     buildFolder="build"
     bootClassPath="/home/curtis-lehman/Android/Sdk/platforms/android-36/android.jar:/home/curtis-lehman/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"
