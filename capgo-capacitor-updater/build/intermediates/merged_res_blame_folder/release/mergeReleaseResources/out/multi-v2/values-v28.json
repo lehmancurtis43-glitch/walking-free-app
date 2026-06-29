@@ -4,7 +4,7 @@
             "outputFile": "ee.forgr.capacitor_updater.capgo-capacitor-updater-mergeReleaseResources-35:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-v28/values-v28.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -20,7 +20,7 @@
             "outputFile": "ee.forgr.capacitor_updater.capgo-capacitor-updater-release-37:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-v28/values-v28.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

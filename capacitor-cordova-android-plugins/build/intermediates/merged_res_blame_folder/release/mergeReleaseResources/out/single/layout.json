@@ -33,7 +33,7 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/notification_template_part_time.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/layout/notification_template_part_time.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/layout/notification_template_part_time.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/abc_dialog_title_material.xml",
@@ -57,11 +57,11 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/ime_secondary_split_test_activity.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/layout/ime_secondary_split_test_activity.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/layout/ime_secondary_split_test_activity.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/ime_base_split_test_activity.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/layout/ime_base_split_test_activity.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/layout/ime_base_split_test_activity.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/abc_list_menu_item_icon.xml",
@@ -97,7 +97,7 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/notification_template_part_chronometer.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/layout/notification_template_part_chronometer.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/abc_tooltip.xml",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/splash_screen_view.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-splashscreen-1.0.1-19:/layout/splash_screen_view.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-splashscreen-1.0.1-14:/layout/splash_screen_view.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/abc_list_menu_item_radio.xml",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/custom_dialog.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/layout/custom_dialog.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/layout/custom_dialog.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/layout/abc_list_menu_item_layout.xml",

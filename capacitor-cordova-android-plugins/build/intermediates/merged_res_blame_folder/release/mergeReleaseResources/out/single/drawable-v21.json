@@ -13,7 +13,7 @@
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/drawable-v21/notification_action_background.xml",
-        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-2:/drawable-v21/notification_action_background.xml"
+        "source": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-core-1.13.0-1:/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "capacitor.cordova.android.plugins.capacitor-cordova-android-plugins-release-24:/drawable-v21/abc_dialog_material_background.xml",

@@ -4,7 +4,7 @@
             "outputFile": "com.getcapacitor.android.capacitor-android-release-27:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "com.getcapacitor.android.capacitor-android-mergeReleaseResources-25:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

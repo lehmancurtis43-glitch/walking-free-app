@@ -4,24 +4,7 @@
             "outputFile": "ee.forgr.capacitor_updater.capgo-capacitor-updater-release-37:/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1617d5768a93786b1de2dee421c5cbdd/transformed/play-services-basement-18.10.0/res/values-fr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "202",
-                        "endColumns": "160",
-                        "endOffsets": "362"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "3574",
-                        "endColumns": "164",
-                        "endOffsets": "3734"
-                    }
-                },
-                {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-fr/values-fr.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2a9f2b586705bc68c2547bd968b978c1/transformed/core-1.17.0/res/values-fr/values-fr.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/16ea4faa3ca236a9c99571ef8d8676bc/transformed/play-services-basement-18.10.0/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "160",
+                        "endOffsets": "362"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "3574",
+                        "endColumns": "164",
+                        "endOffsets": "3734"
+                    }
+                },
+                {
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f3af7bcdf38bdf48a2276d8dec6f5b6c/transformed/core-1.17.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -60,24 +60,7 @@
             "outputFile": "ee.forgr.capacitor_updater.capgo-capacitor-updater-mergeReleaseResources-35:/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/1617d5768a93786b1de2dee421c5cbdd/transformed/play-services-basement-18.10.0/res/values-fr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "202",
-                        "endColumns": "160",
-                        "endOffsets": "362"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "3574",
-                        "endColumns": "164",
-                        "endOffsets": "3734"
-                    }
-                },
-                {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/75408f680b49731451890aebef22a9e2/transformed/appcompat-1.7.1/res/values-fr/values-fr.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/a13f2b6929f9a8a5901fa989d8993ddf/transformed/appcompat-1.7.1/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,7 +77,24 @@
                     }
                 },
                 {
-                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/2a9f2b586705bc68c2547bd968b978c1/transformed/core-1.17.0/res/values-fr/values-fr.xml",
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/16ea4faa3ca236a9c99571ef8d8676bc/transformed/play-services-basement-18.10.0/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "160",
+                        "endOffsets": "362"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "3574",
+                        "endColumns": "164",
+                        "endOffsets": "3734"
+                    }
+                },
+                {
+                    "source": "/home/curtis-lehman/.gradle/caches/8.14.3/transforms/f3af7bcdf38bdf48a2276d8dec6f5b6c/transformed/core-1.17.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
